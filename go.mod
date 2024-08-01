@@ -1,4 +1,4 @@
-module github.com/dongmx/rdb
+module github.com/ethnchao/dongmx-rdb
 
 go 1.14
 
